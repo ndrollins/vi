@@ -7,3 +7,6 @@
 [submodule "pack/mypackages/start/vim-elixir"]
 	path = pack/mypackages/start/vim-elixir
 	url = https://github.com/elixir-editors/vim-elixir.git
+[submodule "pack/mypackages/start/vim-closetag"]
+	path = pack/mypackages/start/vim-closetag
+	url = https://github.com/alvan/vim-closetag
